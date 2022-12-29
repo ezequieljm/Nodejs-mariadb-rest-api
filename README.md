@@ -1,6 +1,6 @@
 # Nodejs-mariadb-rest-api
 
-This is a simple project made in *nodejs* using the framework *expressjs* and *mariadb* database.
+This is a simple project made in *nodejs* using the framework *expressjs*, *mariadb* database and *typescript*.
 
 You can run it with the following commands. You must installed git and npm.
 
